@@ -19,11 +19,7 @@ transform: translate(22px, 0px);
 
 }
 .top-foto-hero {
-<<<<<<< HEAD
- margin-top: -40px
-=======
- margin-top: 300px;
->>>>>>> 26f3a9176fd84ccfb4df851051183ae6f8ed62c2
+margin-top: -40px
 }
 
 .topfoto {
@@ -52,11 +48,8 @@ left: 0;
 right: 0;
 width: 100vw;
 max-width: 400px;
-<<<<<<< HEAD
 background-color: #ffffff;
-=======
-background-color: #585858;
->>>>>>> 26f3a9176fd84ccfb4df851051183ae6f8ed62c2
+
 
 
 height: 150px;
